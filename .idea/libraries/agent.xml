@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="agent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iast_agent/target/agent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

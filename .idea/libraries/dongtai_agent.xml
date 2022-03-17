@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dongtai_agent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../111/dongtai_agent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
