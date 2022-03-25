@@ -21,5 +21,7 @@ public class Agent {
         inst.retransformClasses(Runtime.class);
         inst.retransformClasses(Base64.class);
         inst.retransformClasses(StringBuilder.class);
+        Object o = new Object();
+
     }
 }
